@@ -1,0 +1,25 @@
+.social-feed-element {
+    width: 240px;
+    height: 300px;
+    margin-right: 12px !important;
+    margin-left: 12px !important;
+    display: inline-block;
+}
+
+.social-feed-container {
+    height: 100%;
+}
+
+.container{
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+}
+
+.social-feed-element:first-child {
+    margin-top: 25px !important;
+}
+
+.social-feed-element p.social-feed-text{
+    overflow: visible !important
+}
